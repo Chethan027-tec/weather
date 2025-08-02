@@ -1,2 +1,2 @@
-1 django
-2 requirements
+django
+requirements
